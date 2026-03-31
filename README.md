@@ -34,7 +34,7 @@ Android ilovasi: **Jetpack Compose** va **`Canvas`** yordamida chizilgan neon us
 
 
 
-<video src="https://github.com/JavohirOromov/Custom_UI/issues/1#issue-4180261138" width="600" controls></video>
+<video src="https://github.com/user-attachments/assets/571993706-8292a605-6ff8-4d60-9116-0f4e60d2c929" width="600" controls></video>
 
 
 
