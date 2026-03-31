@@ -21,5 +21,6 @@ Android ilovasi: **Jetpack Compose** va **`Canvas`** yordamida chizilgan neon us
 
 
 ## 📷 Foto
-
-https://drive.google.com/file/d/1zg5nn7DaanYBMtNTXPhr-gOQfsmvATK3/view?usp=sharing
+ <img src="https://drive.google.com/uc?export=view&id=1zg5nn7DaanYBMtNTXPhr-gOQfsmvATK3" width="10%" />
+ <img src="https://drive.google.com/uc?export=view&id=1S8Zn136tI8BhKYhVvi5ktecOBk970w7L" width="10%" />
+  <img src="https://drive.google.com/uc?export=view&id=1UjmDcCirWBqXY9fCIMB9r5TIF67t6T-A" width="10%" />
