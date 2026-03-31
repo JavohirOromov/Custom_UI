@@ -19,3 +19,7 @@ Android ilovasi: **Jetpack Compose** va **`Canvas`** yordamida chizilgan neon us
 | Min SDK | 24 |
 | Target / Compile SDK | 36 |
 
+
+## 📷 Foto
+
+https://drive.google.com/file/d/1zg5nn7DaanYBMtNTXPhr-gOQfsmvATK3/view?usp=sharing
