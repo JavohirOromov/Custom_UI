@@ -31,5 +31,6 @@ Android ilovasi: **Jetpack Compose** va **`Canvas`** yordamida chizilgan neon us
 
 
 ## 📹 Video 
+
 <video src="https://github.com/JavohirOromov/Custom_UI/raw/main/docs/demo.mp4" width="100%" controls></video>
 
