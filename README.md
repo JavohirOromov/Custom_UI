@@ -32,5 +32,4 @@ Android ilovasi: **Jetpack Compose** va **`Canvas`** yordamida chizilgan neon us
 
 ## 📹 Video 
 
-<video src="https://github.com/user-attachments/assets/SIZNING-UUID-INGIZ" width="600" controls></video>
-
+<video src="https://github.com/user-attachments/assets/38c6ba45-5d9c-4d2a-9487-a40a5153240c" width="600" controls></video>
